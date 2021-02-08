@@ -5,6 +5,8 @@
   </a>
   <br />
   [Chris Griffin on LinkedIn](https://www.linkedin.com/in/c-m-griffin/)
+   <br />
+  [My Landing Page](https://christophermgriffin.github.io/MyPage/)
 
 <!--
 **ChristopherMGriffin/ChristopherMGriffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
