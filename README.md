@@ -11,8 +11,8 @@
 
   
 - 🔭 I’m currently working on learning more about my craft and practicing daily.
-- 🌱 I’m currently learning Azure and Salesforce.
-- 📚 I’m currently reading 'THE NONDESIGNER'S DESIGN BOOK'.
+- 🌱 I’m currently learning Salesforce.
+- 📚 I’m currently reading anything on Trailhead.
 - 😄 Pronouns: he/him/his.
 - ⚡ Fun fact: I have stopped a moving train with my bare hands.
 - 📫 How to reach me: &nbsp;cmgriffin211@gmail.com
